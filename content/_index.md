@@ -1,8 +1,6 @@
 ---
 title: "Play Pens Pal"
 description: "Homepage description"
-date: "2024-01-11"
-author: "Play Pens Pal"
 ---
 
 ## [Kidoola Baby Playpen  Padded Frame & Mesh](/Kidoola-Baby-Playpen--Padded-Frame-&-Mesh)
