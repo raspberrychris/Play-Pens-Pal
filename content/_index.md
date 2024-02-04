@@ -1,10 +1,8 @@
 ---
-title: Play Pens Pal
-description: Homepage description
-date: 2024-01-11
-author: Play Pens Pal
-menu: main
-url: /play-pens-pal/
+title: "Play Pens Pal"
+description: "Homepage description"
+date: "2024-01-11"
+author: "Play Pens Pal"
 ---
 
 ## [Kidoola Baby Playpen  Padded Frame & Mesh](/Kidoola-Baby-Playpen--Padded-Frame-&-Mesh)
@@ -1240,8 +1238,6 @@ url: /play-pens-pal/
 ### Customers Say about this product
 
 > 
-
-
 
 ---
 

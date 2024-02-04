@@ -3,8 +3,6 @@ title: "Privacy Policy"
 description: "Privacy policy description"
 date: "2024-01-11"
 author: "Play Pens Pal"
-menu: "main"
-url: "/privacy-policy/"
 ---
 
 ## Play Pens Pal
